@@ -6,7 +6,8 @@ export default function Home() {
     
     <main className="flex items-center justify-between space-x-10 bg-black  h-20
     sticky top-0 z-50 border-b border-gray-900 mx-5 ml-5
-">
+    bg-gradient-to-r from-cyan-500 to-blue-500
+  " >
       <Navbar/>
       
     </main>

@@ -8,9 +8,7 @@ function index() {
       <span className="text-2xl text-white font-semibold">Logo</span>
       <div className="flex space-x-4 text-white">
         <a href="#">Dashboard</a>
-        <a href="#">About</a>
-        <a href="#">Projects</a>
-        <a href="#">Contact</a>
+        
       </div>
     </div>
   </div>
